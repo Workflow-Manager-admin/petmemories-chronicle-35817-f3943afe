@@ -1,0 +1,433 @@
+
+> react-kavia@0.1.0 start
+> react-scripts start
+
+(node:1340) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:1340) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-kavia in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://172.17.0.2:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+ERROR in ./src/App.js 6:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 10:0-41
+Module not found: Error: Can't resolve './components/Navbar' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 11:0-49
+Module not found: Error: Can't resolve './components/PetProfile' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 12:0-45
+Module not found: Error: Can't resolve './components/Timeline' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 13:0-41
+Module not found: Error: Can't resolve './components/Photos' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 14:0-49
+Module not found: Error: Can't resolve './components/Milestones' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 15:0-47
+Module not found: Error: Can't resolve './components/Scrapbook' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 16:0-49
+Module not found: Error: Can't resolve './components/ShareModal' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 17:0-51
+Module not found: Error: Can't resolve './context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+webpack compiled with 9 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+ERROR in ./src/App.js 6:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 11:0-49
+Module not found: Error: Can't resolve './components/PetProfile' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 12:0-45
+Module not found: Error: Can't resolve './components/Timeline' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 13:0-41
+Module not found: Error: Can't resolve './components/Photos' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 14:0-49
+Module not found: Error: Can't resolve './components/Milestones' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 15:0-47
+Module not found: Error: Can't resolve './components/Scrapbook' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 16:0-49
+Module not found: Error: Can't resolve './components/ShareModal' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 17:0-51
+Module not found: Error: Can't resolve './context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/components/Navbar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+webpack compiled with 9 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+ERROR in ./src/App.js 6:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 12:0-45
+Module not found: Error: Can't resolve './components/Timeline' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 13:0-41
+Module not found: Error: Can't resolve './components/Photos' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 14:0-49
+Module not found: Error: Can't resolve './components/Milestones' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 15:0-47
+Module not found: Error: Can't resolve './components/Scrapbook' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 16:0-49
+Module not found: Error: Can't resolve './components/ShareModal' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 17:0-51
+Module not found: Error: Can't resolve './context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/components/Navbar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/PetProfile.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+webpack compiled with 9 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+ERROR in ./src/App.js 6:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 13:0-41
+Module not found: Error: Can't resolve './components/Photos' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 14:0-49
+Module not found: Error: Can't resolve './components/Milestones' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 15:0-47
+Module not found: Error: Can't resolve './components/Scrapbook' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 16:0-49
+Module not found: Error: Can't resolve './components/ShareModal' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 17:0-51
+Module not found: Error: Can't resolve './context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/components/Navbar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/PetProfile.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/Timeline.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+webpack compiled with 9 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+WARNING in [eslint] 
+src/components/Photos.js
+  Line 53:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+ERROR in ./src/App.js 6:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 14:0-49
+Module not found: Error: Can't resolve './components/Milestones' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 15:0-47
+Module not found: Error: Can't resolve './components/Scrapbook' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 16:0-49
+Module not found: Error: Can't resolve './components/ShareModal' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 17:0-51
+Module not found: Error: Can't resolve './context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/components/Navbar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/PetProfile.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/Photos.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/Timeline.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+webpack compiled with 9 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+WARNING in [eslint] 
+src/components/Photos.js
+  Line 53:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+ERROR in ./src/App.js 6:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 15:0-47
+Module not found: Error: Can't resolve './components/Scrapbook' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 16:0-49
+Module not found: Error: Can't resolve './components/ShareModal' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 17:0-51
+Module not found: Error: Can't resolve './context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/components/Milestones.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/Navbar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/PetProfile.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/Photos.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/Timeline.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+webpack compiled with 9 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+WARNING in [eslint] 
+src/components/Photos.js
+  Line 53:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+ERROR in ./src/App.js 6:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 16:0-49
+Module not found: Error: Can't resolve './components/ShareModal' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 17:0-51
+Module not found: Error: Can't resolve './context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/components/Milestones.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/Navbar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/PetProfile.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/Photos.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/Scrapbook.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/Timeline.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+webpack compiled with 9 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+WARNING in [eslint] 
+src/components/Photos.js
+  Line 53:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+ERROR in ./src/App.js 6:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/App.js 17:0-51
+Module not found: Error: Can't resolve './context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/components/Milestones.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/Navbar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/PetProfile.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/Photos.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/Scrapbook.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/ShareModal.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+ERROR in ./src/components/Timeline.js 6:0-54
+Module not found: Error: Can't resolve '../context/PetContext' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+webpack compiled with 9 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+WARNING in [eslint] 
+src/components/Photos.js
+  Line 53:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+ERROR in ./src/App.js 6:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+
+ERROR in ./src/components/Navbar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+Did you mean './react-router-dom'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, /home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/node_modules).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+WARNING in [eslint] 
+src/components/Photos.js
+  Line 53:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+ERROR in ./src/App.js 6:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+Did you mean './react-router-dom'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, /home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/node_modules).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+ERROR in ./src/components/Navbar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+Did you mean './react-router-dom'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, /home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/node_modules).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+WARNING in [eslint] 
+src/components/Photos.js
+  Line 53:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+ERROR in ./src/App.js 6:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+Did you mean './react-router-dom'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, /home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/node_modules).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+ERROR in ./src/components/Navbar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+Did you mean './react-router-dom'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, /home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/node_modules).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+WARNING in [eslint] 
+src/components/Photos.js
+  Line 53:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+ERROR in ./src/App.js 6:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+Did you mean './react-router-dom'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, /home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/node_modules).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+ERROR in ./src/components/Navbar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+Did you mean './react-router-dom'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, /home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/node_modules).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+LOG from webpack.FileSystemInfo
+<w> Managed item /home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/node_modules/react-router-dom isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
++ 13 hidden lines
+
+WARNING in [eslint] 
+src/components/Photos.js
+  Line 53:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+ERROR in ./src/App.js 6:0-74
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src'
+Did you mean './react-router-dom'?
+Requests that should resolve in the current directory need to start with './'.
+Requests that start with a name are treated as module requests and resolve within module directories (node_modules, /home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/node_modules).
+If changing the source code is not an option there is also a resolve options called 'preferRelative' which tries to resolve these kind of requests in the current directory too.
+
+ERROR in ./src/components/Navbar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/petmemories-chronicle-35817-f3943afe/petmemories_chronicle/src/components'
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/Photos.js
+  Line 53:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/Photos.js
+  Line 53:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/components/Photos.js
+  Line 53:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/components/Photos.js
+  Line 53:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+webpack compiled with 1 warning
